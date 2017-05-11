@@ -1,34 +1,33 @@
-<header class="site-header">
-	<div class="branding">
-		{% if site.theme_settings.gravatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.theme_settings.gravatar }}?s=100" alt=""/>
-		</a>
-		{% elsif site.theme_settings.avatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/img/{{ site.theme_settings.avatar }}" alt=""/>
-		</a>
-		{% endif %}
-		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
-		</h1>
-	</div>
-	<nav class="site-nav">
-		<ul>
-      <li>
-				<a class="page-link" href="https://gitlocalize.com" target="_blank">GitLocalize</a>
-      </li>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
-			<li>
-				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-					{{ page.title }}
-				</a>
-			</li>
-			{% endif %}
-			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled -->
-			{% include icons.html %}
-		</ul>
-	</nav>
+<header class="navbar navbar-default gl-header">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img class="avatar" src="{{ site.baseurl }}/img/logo.png"/>blog
+      </a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+	  			<a class="page-link" href="https://gitlocalize.com" target="_blank">GitLocalize</a>
+        </li>
+	  		{% for page in site.pages %}
+          {% if page.title and page.hide != true %}
+            <li>
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+                {{ page.title }}
+              </a>
+            </li>
+          {% endif %}
+	  		{% endfor %}
+	  		<!-- Social icons from Font Awesome, if enabled -->
+	  		{% include icons.html %}
+      </ul>
+    </div>
+  </div>
 </header>
