@@ -72,6 +72,9 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-multiple-languages-plugin
+languages: ["en", "ja"]
 permalink: /posts/:categories/:title.html
 future: true

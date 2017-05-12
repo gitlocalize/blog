@@ -11,6 +11,7 @@ layout: default
   {% endif %}
 
   <div class="posts">
+    {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in paginator.posts %}
     <div class="post">
       <header>

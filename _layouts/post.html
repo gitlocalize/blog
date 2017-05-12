@@ -7,6 +7,19 @@ layout: default
     <p class="meta">
     {{ page.date | date: "%B %-d, %Y" }}
     {% if page.author %} - {{ page.author }}{% endif %}
+    {% if page.languages %}
+      <ul class="languages">
+        {% for language in page.languages %}
+          <li>
+            {% if language == "en" %}
+              <a href="{{ page.url }}">{{ language }}</a>
+            {% else %}
+              <a href="/{{ language }}{{ page.url }}">{{ language }}</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
     </p>
   </header>
   <section class="post-content">{{ content }}</section>

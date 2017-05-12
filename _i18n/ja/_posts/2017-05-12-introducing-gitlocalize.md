@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Introducing GitLocalize, a continuous localization platform for GitHub repository
+title: GitLocalizeのご紹介: GitHubリポジトリのための継続的ローカライゼーションツール
+languages:
+  - en
+image: gitlocalize.png
 ---
 
-We are excited to announce the beta launch of our new localization platform, [GitLocalize](https://gitlocalize.com)!
+新しいローカライゼーションプラットフォーム、[GitLocalize](https://gitlocalize.com)のベータ版がローンチしました！
 
 GitLocalize is a continuous localization platform for GitHub repositories and automates the process for developers. Because of the ever-changing nature of Internet-related product, keeping localizing them has been really challenging. GitLocalize solves this by connecting to your GitHub repository and naturally integrating with your development workflow in just a few clicks.
 
 We started supporting from Markdown files. Try GitLocalize in a minute if you have a documentation project that you want to localize.
 
 <a class="btn btn-hero" href="https://gitlocalize.com/auth/github">
-  <i class="fa fa-github"></i><span style="margin-left: 6px;">Get started now with GitHub</span>
+  <i class="fa fa-github"></i><span style="margin-left: 6px;">GitHubで今すぐ始める</span>
 </a>
 
 # How it works
@@ -49,10 +52,8 @@ Check out the video below to see how it works in more depth!
 
 We need your feedback to improve and bring the product to create the better future for localization. Please feel free to give us any feedbacks [here](https://gitlocalize.com/inquiries/new). We will respond within a day.
 
-Also, we have a [Gitter channel](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to chat. Feel free to join and jump into the conversation.
+Also, we have [a Gitter channel](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to chat. Feel free to join and jump into the conversation.
+
+And of course, this blog is localized into [Japanese](httpw://blog.gitlocalize.com/posts/ja/introducing-gitlocalize.html) with GitLocalize, make a suggestion for the translation from [here](https://gitlocalize.com/repo/78).
 
 We hope to make your localization far easier and smoother and support your product's global success! Happy localizing!
-
-<a class="btn btn-hero" href="https://gitlocalize.com/auth/github">
-  <i class="fa fa-github"></i><span style="margin-left: 6px;">Get started now with GitHub</span>
-</a>
