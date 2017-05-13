@@ -12,7 +12,7 @@ GitLocalizeは、GitHubリポジトリ用の継続的なローカリゼーショ
 
 現在Markdownファイルをサポートしてますので、ローカライズするドキュメントプロジェクトがある場合は、是非GitLocalizeを試してみてください。
 
-<a class="btn btn-hero" href="https://gitlocalize.com/auth/github"><br>  <i class="fa fa-github"></i><span style="margin-left: 6px;">GitHubですぐに始める</span></a>
+<a class="btn btn-hero" href="https://gitlocalize.com/auth/github"><i class="fa fa-github"></i><span style="margin-left: 6px;">GitHubですぐに始める</span></a>
 
 # 主な特徴
 
