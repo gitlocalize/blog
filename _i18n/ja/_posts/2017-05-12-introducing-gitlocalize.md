@@ -1,59 +1,59 @@
 ---
 layout: post
-title: GitLocalizeのご紹介: GitHubリポジトリのための継続的ローカライゼーションツール
+title: 'GitLocalizeのご紹介: GitHubリポジトリのための継続的ローカライゼーションツール'
 languages:
-  - en
+- en
 image: gitlocalize.png
 ---
 
 新しいローカライゼーションプラットフォーム、[GitLocalize](https://gitlocalize.com)のベータ版がローンチしました！
 
-GitLocalize is a continuous localization platform for GitHub repositories and automates the process for developers. Because of the ever-changing nature of Internet-related product, keeping localizing them has been really challenging. GitLocalize solves this by connecting to your GitHub repository and naturally integrating with your development workflow in just a few clicks.
+GitLocalizeは、GitHubリポジトリ用の継続的なローカリゼーションプラットフォームで、開発者向けにプロセスを自動化します。インターネット関連の製品はアップデートが頻繁に起こるため、ローカライズを維持することは本当に難しい作業でしたが、 GitLocalizeはGitHubリポジトリに接続し、数回のクリックで開発ワークフローと自然に統合することで、継続的なローカライゼーションの問題を解決します。
 
-We started supporting from Markdown files. Try GitLocalize in a minute if you have a documentation project that you want to localize.
+現在Markdownファイルをサポートしてますので、ローカライズするドキュメントプロジェクトがある場合は、是非GitLocalizeを試してみてください。
 
-<a class="btn btn-hero" href="https://gitlocalize.com/auth/github">
-  <i class="fa fa-github"></i><span style="margin-left: 6px;">GitHubで今すぐ始める</span>
-</a>
+<a class="btn btn-hero" href="https://gitlocalize.com/auth/github"><br>  <i class="fa fa-github"></i><span style="margin-left: 6px;">GitHubですぐに始める</span></a>
 
-# How it works
+# 主な特徴
 
-You can immediately get started with your GitHub account, choose your repository to integrate with GitLocalize and localize your files. Here are the key features of the platform:
+GitHubアカウントを使ってすぐに始めることができます。リポジトリを選択してGitLocalizeと統合し、ファイルをローカライズします。プラットフォームの主な機能は次のとおりです。
 
-### GitHub based workflow
+### GitHubベースのワークフロー
 
 ![GitHub based workflow](/img/flow.png)
 
-Once you integrate your repo with GitLocalize, it starts pulling all the localization related files into its platform and watching the changes.
+リポジトリをGitLocalizeと統合すると、ローカライゼーション関連のすべてのファイルがプラットフォームにpullされ、変更が監視され始めます。
 
-When you finish translating a file, you then make a review request and ask the team to review the changes, like what you do with a pull request.
+ファイルの翻訳が完了したら、レビューリクエストを作り、変更をレビューするようチームに依頼します。GitHubで行なっている、プルリクエストと同じようなフローです。
 
-After the review process, you can send a pull request back to your repo. It makes each contribution on GitLocalize each user's commit on the repository.
+レビューが完了したら、プルリクエストをリポジトリに送り返すことができます。GitLocalizeでの貢献が、それぞれのユーザーのコミットとなります。
 
-With GitLocalize, your team no longer need to do anything extra to localize your project and developers only need to look at those pull request coming.
+GitLocalizeを利用すると、チームはプロジェクトをローカライズするために余分な作業を行う必要がなくなり、開発者はプルリクエストを見るだけで済みます。
 
-### Diff management on translations
+### 翻訳文の差分管理
 
 ![Diff management](/img/diff_management.png)
 
-Since it automatically links a translation with its original sentence, it can show you which part needs to be translated when the original one is updated.
+自動的に元の文と翻訳をリンクするので、元の文が更新されたときに、どこを翻訳すれば良いのかすぐにわかります。
 
-No need to manually check which parts are affected due to the original updated. You just need to look at GitLocalize editor and fill in the missing translations.
+オリジナルの更新によって影響を受ける部分を目視で確認する必要はありません。GitLocalizeエディタを見て足りない翻訳を行うだけです。
 
-And of course, more features are lined up and will be shipped soon!
+もちろん、これから続々と機能が追加されて行きます！
 
-# More details
+# もっと詳しく
 
-Check out the video below to see how it works in more depth!
+どのように動くのか、詳しくは以下のビデオをご覧ください！
+
 
 <iframe src="https://www.youtube.com/embed/b09LDukIJiU" frameborder="0" allowfullscreen style="width: 100%; height: 500px"></iframe>
 
-# Happy localizing!
 
-We need your feedback to improve and bring the product to create the better future for localization. Please feel free to give us any feedbacks [here](https://gitlocalize.com/inquiries/new). We will respond within a day.
+# 楽しいローカライゼーションを！
 
-Also, we have [a Gitter channel](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to chat. Feel free to join and jump into the conversation.
+製品を改善し、ローカライゼーションのより良い未来を作るため、皆様のご意見が必要です。[こちらに](https://gitlocalize.com/inquiries/new)是非フィードバックをお寄せください。即日でご返信します。
 
-And of course, this blog is localized into [Japanese](httpw://blog.gitlocalize.com/posts/ja/introducing-gitlocalize.html) with GitLocalize, make a suggestion for the translation from [here](https://gitlocalize.com/repo/78).
+こちらの[Gitterチャンネル](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)もありますので、自由に参加して会話に参加してください。
 
-We hope to make your localization far easier and smoother and support your product's global success! Happy localizing!
+もちろん、このブログはGitLocalizeを使って日本語にローカライズされていますので、[ここ](https://gitlocalize.com/repo/78)から翻訳を提案してください。
+
+ローカライゼーションを簡単かつスムーズにし、製品のグローバルな成功をサポートできるよう願っています！
