@@ -54,6 +54,6 @@ We need your feedback to improve and bring the product to create the better futu
 
 Also, we have [a Gitter channel](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to chat. Feel free to join and jump into the conversation.
 
-And of course, this blog is localized into [Japanese](httpw://blog.gitlocalize.com/posts/ja/introducing-gitlocalize.html) with GitLocalize, make a suggestion for the translation from [here](https://gitlocalize.com/repo/80).
+And of course, this blog is localized into [Japanese](http://blog.gitlocalize.com/posts/ja/introducing-gitlocalize.html) with GitLocalize, make a suggestion for the translation from [here](https://gitlocalize.com/repo/80).
 
 We hope to make your localization far easier and smoother and support your product's global success! Happy localizing!
