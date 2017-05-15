@@ -48,4 +48,16 @@
 	ga('send', 'pageview');
 	</script>
 	{% endif %}
+
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}">
+  <meta property="og:site_name" content="GitLocalize Blog">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}/img/{{ page.image }}">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@gitlocalize">
+  <meta name="twitter:creator" content="@gitlocalize">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+  <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.image }}">
 </head>
