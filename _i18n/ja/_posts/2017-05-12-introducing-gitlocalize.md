@@ -54,6 +54,6 @@ GitLocalizeを利用すると、チームはプロジェクトをローカライ
 
 こちらの[Gitterチャンネル](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)もありますので、自由に参加して会話に参加してください。
 
-もちろん、このブログはGitLocalizeを使って日本語にローカライズされていますので、[ここ](https://gitlocalize.com/repo/78)から翻訳を提案してください。
+もちろん、このブログはGitLocalizeを使って日本語にローカライズされていますので、[ここ](https://gitlocalize.com/repo/80)から翻訳を提案してください。
 
 ローカライゼーションを簡単かつスムーズにし、製品のグローバルな成功をサポートできるよう願っています！
