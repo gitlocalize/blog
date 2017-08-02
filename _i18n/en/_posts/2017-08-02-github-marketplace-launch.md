@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GitLocalize is Now Available on GitHub Marketplace!
+languages:
+  - ja
 image: ghm/main.png
 ---
 

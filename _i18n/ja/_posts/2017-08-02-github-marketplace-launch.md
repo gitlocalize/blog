@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GitLocalizeがGitHubマーケットプレイスにローンチされました！
+languages:
+- en
 image: ghm/main.png
 ---
 
