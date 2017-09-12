@@ -22,7 +22,7 @@ Read [our blog article](/posts/introducing-gitlocalize.html) to learn more about
 
 Navigate to the `Add Repository` button from your profile page. Here, you'll see the form to register your GitHub repository with the GitLocalize platform.
 
-In the middle of the page, specify where your source I18n files are located and where you want to generate translated files to.
+In the middle of the page, specify where your source I18n files are located and where you want to generate translated files.
 
 For example, let's say that you have source English I18n YAML files at `config/locales/en.yml` and want to have translated ones at `config/locales/%lang%.yml`. Set the drop-down menu on the left to `File`, then select `config/locales/en.yml` for `Source Path` and `config/locales/%lang%.yml` for `Translation Path`.
 
