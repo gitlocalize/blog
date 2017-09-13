@@ -6,7 +6,7 @@ languages:
 image: gitlocalize.png
 ---
 
-Struggling to manage your I18n YAML files and the accompanying localization work with Ruby on Rails? Well, we have great news for you. GitLocalize is now here to help you take care of all that tedious Rails I18n work!
+Struggling to manage your i18n YAML files and the accompanying localization work with Ruby on Rails? Well, we have great news for you. GitLocalize is now here to help you take care of all that tedious Rails I18n work!
 
 # Get Started
 
