@@ -6,7 +6,7 @@ languages:
 image: gitlocalize.png
 ---
 
-Struggling to manage your i18n YAML files and the accompanying localization work with Ruby on Rails? Well, we have great news for you. GitLocalize is now here to help you take care of all that tedious Rails I18n work!
+Struggling to manage your i18n YAML files and the accompanying localization work with Ruby on Rails? Well, we have great news for you. GitLocalize is now here to help you take care of all that tedious Rails i18n work!
 
 # Get Started
 
@@ -20,17 +20,17 @@ Read [our blog article](/posts/introducing-gitlocalize.html) to learn more about
 
 # Register Your Rails App
 
-Navigate to the `Add Repository` button from your profile page. Here, you'll see the form to register your GitHub repository with the GitLocalize platform.
+Navigate to the `Add Repository` page from your profile. Here, you'll see the form to register your GitHub repository with the GitLocalize platform.
 
-In the middle of the page, specify where your source I18n files are located and where you want to generate translated files.
+In the middle of the page, specify where your source i18n files are located and where you want to generate translated files.
 
-For example, let's say that you have source English I18n YAML files at `config/locales/en.yml` and want to have translated ones at `config/locales/%lang%.yml`. Set the drop-down menu on the left to `File`, then select `config/locales/en.yml` for `Source Path` and `config/locales/%lang%.yml` for `Translation Path`.
+For example, let's say that you have source English i18n YAML files at `config/locales/en.yml` and want to have translated ones at `config/locales/ja.yml` or `config/locales/es.yml`. Set the drop-down menu on the left to `File`, then select `config/locales/en.yml` for `Source Path` and `config/locales/%lang%.yml` for `Translation Path`.
 
 ![Add Rules](/img/ror/path_rule.png)
 
-This `%lang%` is a placeholder for the two-character code of your translation target languages. For example, if you're translating to Japanese or Spanish, `ja.yml` or `es.yml` will be generated, respectively.
+This `%lang%` is a placeholder for the two-character code of your translation target languages. For example, if you're translating to Japanese and Spanish, `ja.yml` and `es.yml` will be generated, respectively.
 
-If you have multiple I18n files, simply click the `+ Add Rule` button to register more rules.
+If you have multiple i18n files, simply click the `+ Add Rule` button to register more rules.
 
 # Start Localizing
 
