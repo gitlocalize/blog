@@ -24,7 +24,7 @@ Navigate to the `Add Repository` page from your profile. Here, you'll see the fo
 
 In the middle of the page, specify where your source i18n files are located and where you want to generate translated files.
 
-For example, let's say that you have source English i18n YAML files at `config/locales/en.yml` and want to have translated ones at `config/locales/ja.yml` or `config/locales/es.yml`. Set the drop-down menu on the left to `File`, then select `config/locales/en.yml` for `Source Path` and `config/locales/%lang%.yml` for `Translation Path`.
+For example, let's say that you have source English i18n YAML files at `config/locales/en.yml` and want to have translated ones at `config/locales/ja.yml` or `config/locales/es.yml`. Set the drop-down menu on the left to `File`, then type `config/locales/en.yml` for `Source Path` and `config/locales/%lang%.yml` for `Translation Path`.
 
 ![Add Rules](/img/ror/path_rule.png)
 
