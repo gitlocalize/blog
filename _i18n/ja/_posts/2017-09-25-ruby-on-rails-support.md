@@ -17,7 +17,7 @@ Ruby on Railsのi18n YAMLファイルを管理とそれに伴うローカリゼ�
   <i class="fa fa-github"></i><span style="margin-left: 6px;">無料で始める</span>
 </a>
 
-GitLocalizeが実際にどう動くのか、[こちらのブログ記事](/posts/introducing-gitlocalize.html) をチェックしてみてください。
+GitLocalizeが実際にどう動くのか、[こちらのブログ記事](/posts/ja/introducing-gitlocalize.html) をチェックしてみてください。
 
 # Railsアプリを登録する
 
