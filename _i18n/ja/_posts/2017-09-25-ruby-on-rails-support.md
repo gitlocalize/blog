@@ -8,7 +8,7 @@ image: gitlocalize.png
 
 Ruby on Railsのi18n YAMLファイルを管理とそれに伴うローカリゼーション作業に苦労していませんか？ GitLocalizeは面倒なRails i18nのすべての作業を簡単にすることができます！
 
-# Get Started
+# 開始する
 
 まだサインアップしていない場合は、無料でGitLocalizeに登録して、Railsアプリをストレスなくローカライズする準備をしましょう。
 
@@ -23,7 +23,7 @@ GitLocalizeが実際にどう動くのか、[こちらのブログ記事](/posts
 
 プロフィールから `Repository追加` ページへ移動すると、GitHubリポジトリをGitLocalizeに追加するフォームがあります。
 
-In the middle of the page, specify where your source i18n files are located and where you want to generate translated files.
+ページの中央で、ソースi18nファイルの場所と翻訳ファイルの生成場所を指定します。
 
 たとえば英語のi18n YAMLファイルが`config/locales/en.yml`にあり、 翻訳したいファイルが`config/locales/ja.yml`や`config/locales/es.yml`にあるとします。この場合、左側のドロップダウンメニューで`File`を選択し、 `Source Path`に`config/locales/en.yml` 、`Translation Path`に`config/locales/%lang%.yml`を入力します。
 
