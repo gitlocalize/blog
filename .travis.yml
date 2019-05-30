@@ -6,6 +6,7 @@ cache: bundler
 
 script:
   - bundle install
+  - bundle exec jekyll
 
 deploy:
   provider: pages
