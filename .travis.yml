@@ -10,7 +10,7 @@ script:
 
 deploy:
   provider: pages
-  fqdn: docs.gitlocalize.com
+  fqdn: blog.gitlocalize.com
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: _site
