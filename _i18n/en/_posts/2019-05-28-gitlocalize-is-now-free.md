@@ -3,6 +3,7 @@ layout: post
 title: GitLocalize is Free!
 languages:
   - en
+image: gitlocalize-is-free.png
 ---
 
 We are excited to announce that [GitLocalize](https://gitlocalize.com) is now free for everyone!
