@@ -3,12 +3,12 @@ layout: post
 title: GitLocalize Is Free!
 languages:
   - en
-image: gitlocalize-is-free.png
+image: gitlocalize-is-free-now.png
 ---
 
 We are excited to announce that [GitLocalize](https://gitlocalize.com) is now free for everyone!
 
-![GitHub is Free](/img/gitlocalize-is-free.png)
+![GitLocalize Is Free](/img/gitlocalize-is-free-now.png)
 
 ### Is everything free?
 Yes. All the features — the synchronization of repositories, the webhook to keep your projects up-to-date, manual and machine translation into all the supported languages, and teamwork — are available for free.
