@@ -6,7 +6,6 @@ cache: bundler
 
 script:
   - bundle install
-  - rake prepare
 
 deploy:
   provider: pages
