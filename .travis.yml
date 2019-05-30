@@ -1,0 +1,18 @@
+language: ruby
+rvm:
+  - 2.3
+
+cache: bundler
+
+script:
+  - bundle install
+  - rake prepare
+
+deploy:
+  provider: pages
+  fqdn: docs.gitlocalize.com
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  on:
+    branch: master
