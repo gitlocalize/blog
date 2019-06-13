@@ -2,7 +2,7 @@
 layout: post
 title: GitLocalize – теперь бесплатно!
 languages:
-- ru
+- en
 image: gitlocalize-is-free-now.png
 ---
 
