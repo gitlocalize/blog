@@ -25,7 +25,7 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook: "https://www.facebook.com/gitlocalize"
+  facebook: "gitlocalize"
   flickr:
   github:
   google_plus:
@@ -37,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "https://twitter.com/gitlocalize"
+  twitter: "gitlocalize"
   wordpress:
   youtube:
 
