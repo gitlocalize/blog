@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitLocalize Is Free!
+title: GitLocalize – теперь бесплатно!
 languages:
 - ru
 image: gitlocalize-is-free-now.png
@@ -8,18 +8,18 @@ image: gitlocalize-is-free-now.png
 
 ![GitLocalize Is Free](/img/gitlocalize-is-free-now.png)
 
-We are excited to announce that [GitLocalize](https://gitlocalize.com) is now free for everyone!
+Мы рады сообщить, что платформа [GitLocalize](https://gitlocalize.com) стала бесплатной!
 
 ### Что доступно в бесплатной версии?
 
-Yes. All the features — the synchronization of repositories, the webhook to keep your projects up-to-date, manual and machine translation into all the supported languages, and teamwork — are available for free.
+Весь функционал: синхронизация репозиториев, вебхуки для обновления проектов, ручной и машинный перевод на все поддерживаемые языки — все это доступно в бесплатной версии.
 
 ### Бесплатно для всех?
 
-Practically. Whether you own OSS or private projects, you can sync them to GitLocalize and translate their documentation, guides and resource strings into all the languages. We intend to keep the platform free for every project, except really huge ones — in such cases we will have to discuss an Enterprise plan with additional technical support from our team.
+Практически для всех. Независимо от того, приватный у вас проект либо OSS, его можно синхронизировать с GitLocalize и переводить документацию, руководства и ресурсные строки на любые языки. Мы будем делать все, чтобы платформа оставалась бесплатной для любых проектов, за исключением очень крупных: для таких случаев есть индивидуальный план Enterprise с дополнительной технической поддержкой. 
 
-### Is it always going to be free?
+### Бесплатно всегда?
 
-Yes, we intend to keep it that way.
+Да, мы сделаем все возможное, чтобы платформа всегда оставалась бесплатной.
 
-GitLocalize is still far from perfect, and what we need now is as much feedback as possible. Feel free to sign in or sign up with your GitHub account, add a new repo, and start translating right away. Our team will be more than happy to answer any questions — [join the community chat](https://gitter.im/gitlocalize/Lobby) or [book a call](https://calendly.com/stacy_gl) to share your experience!
+GitLocalize — далеко не совершенный продукт, и сейчас мы хотим получить как можно больше обратной связи от пользователей. Регистрируйтесь или авторизуйтесь с помощью аккаунта GitHub, добавляйте репозиторий и начинайте переводить. Наша команда будет рада ответить на любые вопросы — [присоединяйтесь к чату комьюнити](https://gitter.im/gitlocalize/Lobby) или [забронируйте звонок с нами](https://calendly.com/stacy_gl), чтобы поделиться впечатлениями!
