@@ -75,6 +75,6 @@ sass:
 gems: 
   - jekyll-paginate
   - jekyll-multiple-languages-plugin
-languages: ["en", "ja"]
+languages: ["en", "ja", "ru"]
 permalink: /posts/:categories/:title.html
 future: true
