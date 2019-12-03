@@ -14,4 +14,4 @@ We are excited to announce that we have launched [GitLocalize](https://github.co
 
 GitHub introduces the new apps including [GitLocalize](https://gitlocalize.com) in their official blog post, ["Introducing seven new apps to GitHub Marketplace"](https://github.com/blog/2411-introducing-seven-new-apps-to-github-marketplace). Check out the article to know more about other cool apps on the marketplace.
 
-Go to our [app page](https://github.com/marketplace/gitlocalize) to find out more about our different pricing options and start the Free plan today!
+Go to our [app page](https://github.com/marketplace/gitlocalize) to find out more and sign up for a free account today!
