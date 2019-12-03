@@ -3,14 +3,14 @@ layout: post
 title: GitLocalize Is Now Part of Alconost!
 languages:
   - ru
-image: gitlocalize-alconost.png
+image: alconost_gitlocalize.png
 ---
 
-![GitLocalize Is Now Part of Alconost](/img/gitlocalize-alconost.png)
+![GitLocalize Is Now Part of Alconost](/img/alconost_gitlocalize.png)
 
 ### Good news everyone!
 
-We are excited to announce that [GitLocalize](https://gitlocalize.com) is now part of [Alconost](https://alconost.com!)
+We are excited to announce that [GitLocalize](https://gitlocalize.com) is now part of [Alconost](https://alconost.com)!
 
 Alconost Inc. is a U.S.-based Multi-Language Vendor that helps companies around the world with localization of their products and content into 80+ languages. Alconost will use its professional team and expertise in localization to support and improve GitLocalize, and to bring professional language services closer to developers.
 
