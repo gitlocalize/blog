@@ -21,7 +21,7 @@ and select the desired view:
 ![Filters](/img/filter_2.png)
 
 ---
-### 🏷The GitLocalized Badge
+### 🏷The GitLocalized badge
 
 
 If you want your community to see the translation progress of your project, feel free to add our ![GitLocalized](/img/badge.svg) badge to your Readme file, Wiki or Contributing Guidelines.
