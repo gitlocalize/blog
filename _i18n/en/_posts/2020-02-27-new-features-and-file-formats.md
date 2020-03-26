@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Release Notes: Badges, Filters, New File Formats and More 🚀
+title: Release Notes: Badges, Filters, New File Formats and More
 languages:
   - ru
 image:
