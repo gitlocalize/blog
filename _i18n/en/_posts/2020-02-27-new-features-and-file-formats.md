@@ -8,8 +8,9 @@ languages:
 
 We've been working hard to make GitLocalize better. Check out what we've done.
 
-### 🔍Filters
 ---
+### 🔍Filters
+
 
 Translating updates has just become easier. You can now select to display only untranslated strings or only machine translated strings, which is especially important if you’re working with large markdown or json files. Just click on the filter icon in the top right part of the editor
 
@@ -21,7 +22,7 @@ and select the desired view:
 
 ---
 ### 🏷The GitLocalized Badge
----
+
 
 If you want your community to see the translation progress of your project, feel free to add our ![GitLocalized](/img/badge.svg) badge to your Readme file, Wiki or Contributing Guidelines.
 
@@ -41,7 +42,7 @@ Check out how other projects are using our badges:
 
 ---
 ### 🗞Group Multiple Files in as Single Pull Request
----
+
 If you're a language moderator or project owner, you may now find it easier to send multiple translated files (Review Requests) in a single Pull Request
 ![Batch Pull Request](/img/batch_PR.png)
 
