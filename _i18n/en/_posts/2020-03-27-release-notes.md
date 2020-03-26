@@ -31,8 +31,9 @@ To generate the badge link, head to the Badge tab in project overview:
 
 You can also generate badges for each of the project languages:
 
-![🇩🇪](https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png)![de](/img/badge_de.svg) ![🇫🇷](https://github.githubassets.com/images/icons/emoji/unicode/1f1eb-1f1f7.png)![fr](/img/badge_fr.svg)
-![🇧🇷](https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png)![ptbr](/img/badge_ptbr.svg)
+![de](/img/badge_de.svg)
+![fr](/img/badge_fr.svg)
+![ptbr](/img/badge_ptbr.svg)
 
 
 Check out how other projects are using our badges:
