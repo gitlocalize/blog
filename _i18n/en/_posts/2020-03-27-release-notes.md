@@ -9,7 +9,7 @@ languages:
 We've been working hard to make GitLocalize better. Check out the cool features that we've added recently.
 
 ---
-### ![🔍](https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png)Filters
+### 🔍Filters
 
 
 Translating updates has just become easier. You can now select to display only untranslated strings or only machine translated strings, which is especially important if you’re working with large markdown or json files. Just click on the filter icon in the top right part of the editor
