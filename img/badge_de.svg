@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='125.5' height='20' class='mdl-js'>
+            <linearGradient id='b' x2='0' y2='100%'>
+              <stop offset='0' stop-color='#bbb' stop-opacity='.1'/>
+              <stop offset='1' stop-opacity='.1'/>
+            </linearGradient>
+            <clipPath id='a'>
+              <rect width='125.5' height='20' rx='3' fill='#fff'/>
+            </clipPath>
+            <g clip-path='url(#a)'>
+              <path fill='#555' d='M0 0h91.5v20H0z'/>
+              <path fill='#44CC11' d='M91.5 0h34v20H91.5z'/>
+              <path fill='url(#b)' d='M0 0h125.5v20H0z'/>
+            </g>
+            <g fill='#fff' text-anchor='start' font-family='DejaVu Sans,Verdana,Geneva,sans-serif' font-size='110'>
+              <text x='70' y='130' transform='scale(.1)' textLength='600'>gitlocalized</text>
+              <text x='720' y='130' fill='#FFCD19' transform='scale(.1)'>de</text>
+              <text x='965.0' y='130' transform='scale(.1)' textLength='240'>23%</text>
+            </g>
+          </svg>
