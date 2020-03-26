@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Release Notes - Badges, Filters, New File Formats and More 🚀
+title: Release Notes - Badges, Filters and More 🚀
 languages:
   - ru
 ---
 
 
-We've been working hard to make GitLocalize better. Check out what we've done.
+We've been working hard to make GitLocalize better. Check out the cool features that we've added recently.
 
 ---
 ### 🔍Filters
