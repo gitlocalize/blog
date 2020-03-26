@@ -39,8 +39,15 @@ Check out how other projects are using our badges:
 
 [SlimeFun4](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Translating-Slimefun)
 
+---
+### 🗞Group Multiple Files in as Single Pull Request
+---
+If you're a language moderator or project owner, you may now find it easier to send multiple translated files (Review Requests) in a single Pull Request
+![Batch Pull Request](/img/batch_PR.png)
 
-*Stay tuned for future updates!*
+---
+
+_Stay tuned for future updates!_
 
 
-Should you have any questions, feel free to [join our community chat](https://gitter.im/gitlocalize/Lobby) or [book a call with us directly](https://calendly.com/is-alconost)!
+Should you have any questions, feel free to [join our community chat](https://gitter.im/gitlocalize/Lobby) or [send us and email](mailto:info@gitlocalize.com).
