@@ -11,7 +11,7 @@ We've been working hard to make GitLocalize better. Check out what we've done.
 ### 🔍Filters
 ---
 
-Translating updates has just become easier. You can now select to display only untranslated strings or only machine translated strings, which is especially important if you’re working with large markdown or json files. Just click on the filter icon in the top right part of the editor screen and select the desired view:
+Translating updates has just become easier. You can now select to display only untranslated strings or only machine translated strings, which is especially important if you’re working with large markdown or json files. Just click on the filter icon in the top right part of the editor
 
 ![Filters](/img/filter_1.png)
 
@@ -29,17 +29,18 @@ To generate the badge link, head to the Badge tab in project overview:
 ![GitLocalized Badge](/img/badge_1.png)
 
 You can also generate badges for each of the project languages:
+
 🇩🇪![de](/img/badge_de.svg) 🇫🇷![fr](/img/badge_fr.svg) 🇧🇷![ptbr](/img/badge_ptbr.svg)
 
 
 Check out how other projects are using our badges:
+
 [Hacker Laws](https://github.com/dwmkerr/hacker-laws#translations)
-[]()
+
+[SlimeFun4](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Translating-Slimefun)
 
 
-
-
-Stay tuned for future updates!
+*Stay tuned for future updates!*
 
 
 Should you have any questions, feel free to [join our community chat](https://gitter.im/gitlocalize/Lobby) or [book a call with us directly](https://calendly.com/is-alconost)!
