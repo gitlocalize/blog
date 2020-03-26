@@ -7,9 +7,9 @@ languages:
 
 
 We've been working hard to make GitLocalize better. Check out what we've done.
----
-### 🔍Filters
 
+### 🔍Filters
+---
 
 Translating updates has just become easier. You can now select to display only untranslated strings or only machine translated strings, which is especially important if you’re working with large markdown or json files. Just click on the filter icon in the top right part of the editor screen and select the desired view:
 
@@ -21,15 +21,23 @@ and select the desired view:
 
 ---
 ### 🏷The GitLocalized Badge
+---
+
+If you want your community to see the translation progress of your project, feel free to add our ![GitLocalized](/img/badge.svg) badge to your Readme file, Wiki or Contributing Guidelines.
+
+To generate the badge link, head to the Badge tab in project overview:
+![GitLocalized Badge](/img/badge_1.png)
+
+You can also generate badges for each of the project languages:
+🇩🇪![de](/img/badge_de) 🇫🇷![fr](/img/badge_fr) 🇧🇷![ptbr](/img/badge_ptbr)
 
 
-If you want your community to see the translation progress in your project, feel free to add our ![GitLocalized](/img/badge.svg) badge to your Readme file, Wiki or Contributing Guidelines.
-
-
-
-Check out how other projects are using our badge:
+Check out how other projects are using our badges:
 [Hacker Laws](https://github.com/dwmkerr/hacker-laws#translations)
 []()
+
+
+
 
 Stay tuned for future updates!
 
