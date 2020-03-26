@@ -9,6 +9,7 @@ languages:
 We've been working hard to make GitLocalize better. Check out what we've done.
 
 ### 🔍Filters
+---
 
 Translating updates has just become easier. You can now select to display only untranslated strings or only machine translated strings, which is especially important if you’re working with large markdown or json files. Just click on the filter icon in the top right part of the editor screen and select the desired view:
 
@@ -20,6 +21,7 @@ and select the desired view:
 
 
 ### 🏷The GitLocalized Badge
+---
 
 If you want your community to see the translation progress in your project, feel free to add our ![GitLocalized](/img/badge.svg) badge to your Readme file, Wiki or Contributing Guidelines.
 
