@@ -29,7 +29,7 @@ To generate the badge link, head to the Badge tab in project overview:
 ![GitLocalized Badge](/img/badge_1.png)
 
 You can also generate badges for each of the project languages:
-🇩🇪![de](/img/badge_de) 🇫🇷![fr](/img/badge_fr) 🇧🇷![ptbr](/img/badge_ptbr)
+🇩🇪![de](/img/badge_de.svg) 🇫🇷![fr](/img/badge_fr.svg) 🇧🇷![ptbr](/img/badge_ptbr.svg)
 
 
 Check out how other projects are using our badges:
