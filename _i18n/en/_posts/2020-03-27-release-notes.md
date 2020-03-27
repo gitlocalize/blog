@@ -38,7 +38,7 @@ You can also generate badges for each of the project languages:
 ![ptbr](/img/badge_ptbr.svg)
 
 
-Check out how other projects are using our badge:
+Check out how other GitHub projects are using our badge:
 
 [Hacker Laws](https://github.com/dwmkerr/hacker-laws#translations)
 
