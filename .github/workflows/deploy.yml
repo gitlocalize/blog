@@ -13,12 +13,9 @@ jobs:
       with:
         ruby-version: '2.3'
         bundler-cache: true
-    - name: Dependencies
-      run: bundle install
-    - name: Build
-      run: bundle exec jekyll build
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+    - run: bundle exec rake
+    - run: bundle exec jekyll build
+    - uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         cname: blog.gitlocalize.com
