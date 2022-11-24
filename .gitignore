@@ -1,6 +1,7 @@
-_site
-.sass-cache
+.bundle/
+.jekyll-cache/
+.sass-cache/
+_site/
+vendor/
+
 Gemfile.lock
-.DS_Store
-*.swp
-build/
