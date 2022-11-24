@@ -25,9 +25,9 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook: "gitlocalize"
+  facebook: gitlocalize
   flickr:
-  github:
+  github: gitlocalize
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +37,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "gitlocalize"
+  twitter: gitlocalize
   wordpress:
   youtube:
 
@@ -72,9 +72,11 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: 
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-multiple-languages-plugin
 languages: ["en", "ja", "ru"]
-permalink: /posts/:categories/:title.html
+permalink: /posts/:categories/:title
 future: true
