@@ -1,7 +1,10 @@
 source "https://rubygems.org"
-gem 'rouge'
-gem 'jekyll', '~> 3.4'
-gem 'jekyll-paginate', '~> 1.1'
-gem 'jekyll-gh-pages'
-gem 'jekyll-multiple-languages-plugin', '~> 1.5.1'
-gem 'kramdown-parser-gfm'
+
+gem 'jekyll', '~>4'
+
+group :jekyll_plugins do
+    gem 'jekyll-feed', '~> 0.17'
+    gem 'jekyll-sitemap', '~> 1.4'
+    gem 'jekyll-paginate', '~> 1.1'
+    gem 'jekyll-multiple-languages-plugin', '~> 1.8'
+end
