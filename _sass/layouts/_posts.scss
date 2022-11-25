@@ -25,6 +25,10 @@ header {
     letter-spacing: 0.1em;
     margin: 1rem 0;
     text-transform: uppercase;
+
+    .avatar-small {
+      border-radius: 50%;
+    }
   }
 }
 .feature-image {

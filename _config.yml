@@ -73,6 +73,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: 
+  - jekyll-avatar
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
