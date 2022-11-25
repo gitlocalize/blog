@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing GitLocalize, a continuous localization platform for GitHub repository
+author: chikathreesix
 languages:
   - ja
 image: gitlocalize.png

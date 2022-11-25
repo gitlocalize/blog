@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'GitLocalizeのご紹介: GitHubリポジトリのための継続的ローカライゼーションツール'
+author: chikathreesix
 languages:
 - en
 image: gitlocalize.png

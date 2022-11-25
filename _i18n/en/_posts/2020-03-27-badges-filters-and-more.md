@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 🚀 Badges, Filters and More
+author: ilyaspiridonov
 languages:
   - ru
 ---

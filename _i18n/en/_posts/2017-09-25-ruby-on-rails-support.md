@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Localize Your Ruby on Rails App with GitLocalize
+author: chikathreesix
 languages:
   - ja
 image: gitlocalize.png

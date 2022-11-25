@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google’s Web Fundamentals Is Now Localizing With GitLocalize
+author: chikathreesix
 languages:
   - ja
 image: webfundamentals_gitlocalize.png

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 🚀 Бэджи, фильтры и не только
+author: ilyaspiridonov
 languages:
 - en
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize объединяется с Alconost!
+author: ilyaspiridonov
 languages:
 - en
 image: alconost_gitlocalize.png

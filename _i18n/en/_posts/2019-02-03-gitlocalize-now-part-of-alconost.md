@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize Is Now Part of Alconost!
+author: ilyaspiridonov
 languages:
   - ru
 image: alconost_gitlocalize.png

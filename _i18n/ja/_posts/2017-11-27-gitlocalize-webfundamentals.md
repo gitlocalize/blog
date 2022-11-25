@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GoogleのWeb FundamentalsがローカライズにGitLocalizeを試験運用開始
+author: chikathreesix
 languages:
 - en
 image: webfundamentals_gitlocalize.png

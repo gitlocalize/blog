@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalizeを使ってRuby on Rails アプリをローカライズ
+author: chikathreesix
 languages:
 - en
 image: gitlocalize.png

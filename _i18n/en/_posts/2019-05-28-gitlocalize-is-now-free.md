@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize Is Free!
+author: ilyaspiridonov
 languages:
   - ru
 image: gitlocalize-is-free-now.png
