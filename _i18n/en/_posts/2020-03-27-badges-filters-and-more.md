@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🚀 Release Notes - Badges, Filters and More
+title: 🚀 Badges, Filters and More
 languages:
   - ru
 ---
