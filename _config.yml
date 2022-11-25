@@ -53,7 +53,7 @@ theme_settings:
   str_email: "Email"
   str_next: "Next"
   str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_continue_reading: "Read More <small>↗</small>"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

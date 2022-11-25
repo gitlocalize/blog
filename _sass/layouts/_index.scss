@@ -18,6 +18,10 @@
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
+
+    .post-link:hover {
+      text-decoration: none;
+    }
   }
 
   .post-teaser {
@@ -33,6 +37,20 @@
   }
   .excerpt {
     margin-top: 1em;
+
+    // Continue reading
+    .button {
+      border: none;
+      padding: 0;
+      margin: 0;
+      font-weight: 500;
+    }
+
+    a.button:hover {
+      background: none;
+      color: $link-color;
+      opacity: 0.7;
+    }
   }
 }
 // Pagination
