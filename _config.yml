@@ -5,7 +5,7 @@ url: "http://blog.gitlocalize.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: GitLocalize blog
+  title: GitLocalize Blog
   avatar: icon.png
   gravatar: # Email MD5 hash
   description: "GitLocalize: Continuous localization platform for GitHub repositories" # used by search engines
@@ -21,7 +21,7 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: "info@gitlocalize.com" # Full email address, e.g. "sam@example.com"
+  email_address: "contact@gitlocalize.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -30,11 +30,11 @@ theme_settings:
   github: gitlocalize
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: # Full URL
   steam:
   tumblr:
   twitter: gitlocalize
@@ -71,8 +71,8 @@ markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
-  style: :compressed
-plugins: 
+  style: compressed
+plugins:
   - jekyll-avatar
   - jekyll-feed
   - jekyll-sitemap
