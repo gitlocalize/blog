@@ -1,4 +1,4 @@
-# GitLocalize blog
+# GitLocalize Blog
 
 ## Get started
 
