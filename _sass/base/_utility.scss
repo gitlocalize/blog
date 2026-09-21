@@ -8,7 +8,7 @@
 %padding-regular {
   padding: $padding-small $padding-large;
   @media (max-width: 1000px) {
-    padding: $padding-small * 1.5 $padding-large / 1.6;
+    padding: $padding-small * 1.5 $padding-large * 0.625; // was / 1.6
   }
 }
 %link-hover {
@@ -23,11 +23,14 @@
   margin: 1em 0;
   padding: 0.5em 0.75em;
 }
-a.button:hover {
+@mixin button-hover {
   background: $link-color;
   border: 1px solid $link-color;
   color: $background-color;
   text-decoration: none;
+}
+a.button:hover {
+  @include button-hover;
 }
 // States
 .disabled {
