@@ -40,7 +40,7 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large;
+    padding: $padding-large * 0.4 $padding-large; // was / 2.5
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
@@ -73,7 +73,7 @@ header {
     width: 50%;
   }
   a:hover {
-    @extend a.button:hover;
+    @include button-hover;
   }
 
   i {
