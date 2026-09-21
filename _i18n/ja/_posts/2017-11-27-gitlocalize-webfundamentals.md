@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GoogleのWeb FundamentalsがローカライズにGitLocalizeを試験運用開始
+description: "GoogleがWeb FundamentalsのローカライズにGitLocalizeを試験導入。すでに17言語に翻訳されたサイトを最新の状態に保つ取り組みに参加できます。"
 author: chikathreesix
 languages:
 - en

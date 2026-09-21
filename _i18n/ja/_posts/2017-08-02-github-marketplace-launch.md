@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalizeがGitHubマーケットプレイスにローンチされました！
+description: "GitLocalizeがGitHub Marketplaceに初のローカリゼーションアプリとしてローンチ。新設のlocalizationカテゴリで公開された7つの新アプリの一つです。"
 author: chikathreesix
 languages:
 - en

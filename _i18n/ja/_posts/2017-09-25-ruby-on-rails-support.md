@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalizeを使ってRuby on Rails アプリをローカライズ
+description: "GitLocalizeがRuby on Railsのi18nに対応。config/localesのYAMLファイルを指定するだけで、翻訳をリポジトリと自動的に同期できます。"
 author: chikathreesix
 languages:
 - en

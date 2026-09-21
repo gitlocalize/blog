@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Localize Your Ruby on Rails App with GitLocalize
+description: "GitLocalize now handles Ruby on Rails i18n. Point it at your config/locales YAML files and it keeps translations in sync with your repository."
 author: chikathreesix
 languages:
   - ja
