@@ -10,27 +10,30 @@ layout: default
   </div>
   {% endif %}
 
+  <h1 class="sr-only">{{ site.theme_settings.title }}</h1>
+
   <div class="posts">
-    {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in paginator.posts %}
-    <div class="post">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-          </a>
-        </h1>
-        <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-      </header>
+    <article class="post">
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+
+      <p class="meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        {% if post.author %}
+        <span class="sep">&middot;</span>
+        <span class="author">{% avatar {{ post.author }} size=20 %} {{ site.data.authors[post.author] }}</span>
+        {% endif %}
+      </p>
+
       <div class="excerpt">
-        <div>{{ post.excerpt }}</div>
+        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | normalize_whitespace | truncate: 200 }}{% endif %}</p>
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">
           {{ site.theme_settings.str_continue_reading }}
         </a>
       </div>
-    </div>
+    </article>
     {% endfor %}
   </div>
 

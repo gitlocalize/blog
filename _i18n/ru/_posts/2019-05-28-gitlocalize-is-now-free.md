@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize – теперь бесплатно!
+description: "GitLocalize стал бесплатным для всех: синхронизация репозиториев, вебхуки, ручной и машинный перевод, командная работа — для любых проектов."
 author: ilyaspiridonov
 languages:
 - en

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 🚀 Badges, Filters and More
+description: "New in GitLocalize: filters for untranslated and machine-translated strings, the GitLocalized progress badge for your README, and batch pull requests."
 author: ilyaspiridonov
 languages:
   - ru
+image: badge_1.png
 ---
 
 

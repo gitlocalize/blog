@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize Is Now Part of Alconost!
+description: "GitLocalize is now part of Alconost, a multi-language vendor localizing into 80+ languages, which will support and improve the platform."
 author: ilyaspiridonov
 languages:
   - ru

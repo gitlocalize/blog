@@ -34,6 +34,28 @@ a.button:hover {
   opacity: 0.7;
 }
 
+// Inline SVG social icon, sized to line up with Font Awesome's fa-fw glyphs
+.social-icon {
+  display: inline-block;
+  width: 1.28571429em;
+  height: 1em;
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+// Visible to screen readers only (also provided by Bootstrap; defined here so
+// the markup stays correct if Bootstrap is ever dropped)
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
 .content-container {
   max-width: 740px;
 }

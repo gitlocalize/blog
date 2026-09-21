@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'GitLocalizeのご紹介: GitHubリポジトリのための継続的ローカライゼーションツール'
+description: "GitLocalizeのベータ版を公開しました。GitHubリポジトリと連携し、開発ワークフローに自然に組み込める継続的ローカライゼーションプラットフォームです。"
 author: chikathreesix
 languages:
 - en

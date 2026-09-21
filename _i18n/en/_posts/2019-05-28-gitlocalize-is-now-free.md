@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize Is Free!
+description: "GitLocalize is free for everyone: repository sync, webhooks, manual and machine translation, and teamwork, for open source and private projects."
 author: ilyaspiridonov
 languages:
   - ru

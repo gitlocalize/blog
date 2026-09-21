@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize is Now Available on GitHub Marketplace!
+description: "GitLocalize has launched on GitHub Marketplace as its first localization app, one of seven new apps opening GitHub's new localization category."
 author: chikathreesix
 languages:
   - ja

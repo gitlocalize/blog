@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google’s Web Fundamentals Is Now Localizing With GitLocalize
+description: "Google is experimenting with GitLocalize to keep Web Fundamentals translated. The community has localized the site into 17 languages so far."
 author: chikathreesix
 languages:
   - ja

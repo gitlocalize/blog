@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitLocalize объединяется с Alconost!
+description: "GitLocalize вошёл в состав Alconost — бюро локализации, работающего с 80+ языками, которое будет развивать и поддерживать платформу."
 author: ilyaspiridonov
 languages:
 - en
