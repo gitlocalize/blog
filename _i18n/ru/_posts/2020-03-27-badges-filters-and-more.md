@@ -60,4 +60,4 @@ image: badge_1.png
 
 Следите за нашими новостями!
 
-Если у вас возникли вопросы, вы можете задать их в [чате коммьюнити](https://gitter.im/gitlocalize/Lobby) или [отправить нам письмо](mailto:info@gitlocalize.com).
+Если у вас возникли вопросы, вы можете задать их в [чате коммьюнити](https://app.gitter.im/#/room/#gitlocalize:gitter.im) или [отправить нам письмо](mailto:info@gitlocalize.com).

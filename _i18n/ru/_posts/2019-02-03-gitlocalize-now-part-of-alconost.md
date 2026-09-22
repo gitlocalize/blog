@@ -18,4 +18,4 @@ Alconost Inc. — студия локализации из США, котора�
 
 Следите за новостями!
 
-Если у вас возникли вопросы, вы можете задать их в [чате коммьюнити](https://gitter.im/gitlocalize/Lobby) или [запланировать с нами звонок](https://calendly.com/is-alconost)!
+Если у вас возникли вопросы, вы можете задать их в [чате коммьюнити](https://app.gitter.im/#/room/#gitlocalize:gitter.im) или [запланировать с нами звонок](https://calendly.com/is-alconost)!

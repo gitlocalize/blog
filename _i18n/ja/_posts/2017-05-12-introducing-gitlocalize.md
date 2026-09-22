@@ -54,7 +54,7 @@ GitLocalizeを利用すると、チームはプロジェクトをローカライ
 
 製品を改善し、ローカライゼーションのより良い未来を作るため、皆様のご意見が必要です。[こちらに](https://gitlocalize.com/inquiries/new)是非フィードバックをお寄せください。即日でご返信します。
 
-こちらの[Gitterチャンネル](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)もありますので、自由に参加して会話に参加してください。
+こちらの[Gitterチャンネル](https://app.gitter.im/#/room/#gitlocalize:gitter.im)もありますので、自由に参加して会話に参加してください。
 
 もちろん、このブログはGitLocalizeを使って日本語にローカライズされていますので、[ここ](https://gitlocalize.com/repo/80)から翻訳を提案してください。
 

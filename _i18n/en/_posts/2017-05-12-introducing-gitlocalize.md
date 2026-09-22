@@ -54,7 +54,7 @@ Check out the video below to see how it works in more depth!
 
 We need your feedback to improve and bring the product to create the better future for localization. Please feel free to give us any feedbacks [here](https://gitlocalize.com/inquiries/new). We will respond within a day.
 
-Also, we have [a Gitter channel](https://gitter.im/gitlocalize/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) to chat. Feel free to join and jump into the conversation.
+Also, we have [a Gitter channel](https://app.gitter.im/#/room/#gitlocalize:gitter.im) to chat. Feel free to join and jump into the conversation.
 
 And of course, this blog is localized into [Japanese](http://blog.gitlocalize.com/ja/posts/introducing-gitlocalize.html) with GitLocalize, make a suggestion for the translation from [here](https://gitlocalize.com/repo/80).
 
