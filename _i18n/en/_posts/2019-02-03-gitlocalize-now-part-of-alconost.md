@@ -19,4 +19,4 @@ Alconost Inc. is a U.S.-based Multi-Language Vendor that helps companies around 
 Stay tuned for future updates!
 
 
-Should you have any questions, feel free to [join our community chat](https://gitter.im/gitlocalize/Lobby) or [book a call with us directly](https://calendly.com/is-alconost)!
+Should you have any questions, feel free to [join our community chat](https://app.gitter.im/#/room/#gitlocalize:gitter.im) or [book a call with us directly](https://calendly.com/is-alconost)!

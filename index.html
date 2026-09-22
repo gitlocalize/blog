@@ -22,7 +22,6 @@ layout: default
       <p class="meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
         {% if post.author %}
-        <span class="sep">&middot;</span>
         <span class="author">{% avatar {{ post.author }} size=20 %} {{ site.data.authors[post.author] }}</span>
         {% endif %}
       </p>

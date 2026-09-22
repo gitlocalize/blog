@@ -43,14 +43,22 @@
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin: 0 0 0.75rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75em;
+
+    // Fixed column for the date so the author lines up from post to post,
+    // whatever the rendered date's width. The longest date ("September 25,
+    // 2017") measures 9.9em in Source Sans Pro and 11.4em in the fallbacks,
+    // so 11.5em holds the column even if Google Fonts never arrives.
+    time {
+      min-width: 11.5em;
+    }
 
     .avatar {
       border-radius: 50%;
       vertical-align: text-bottom;
-    }
-    .sep {
-      margin: 0 0.4em;
-      opacity: 0.6;
     }
   }
 
@@ -79,6 +87,10 @@
   @media (max-width: 600px) {
     h2 {
       font-size: 1.4em;
+    }
+    // Too narrow for a date column; let the line flow instead.
+    .meta time {
+      min-width: 0;
     }
   }
 }

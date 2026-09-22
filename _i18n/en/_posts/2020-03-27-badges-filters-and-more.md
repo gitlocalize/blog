@@ -59,4 +59,4 @@ If you're a language moderator or project owner, you may now find it easier to s
 _Stay tuned for future updates!_
 
 
-Should you have any questions, feel free to [join our community chat](https://gitter.im/gitlocalize/Lobby) or [send us an email](mailto:info@gitlocalize.com).
+Should you have any questions, feel free to [join our community chat](https://app.gitter.im/#/room/#gitlocalize:gitter.im) or [send us an email](mailto:info@gitlocalize.com).
